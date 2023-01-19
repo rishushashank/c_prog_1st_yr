@@ -1,7 +1,4 @@
-/* NAME: RISHU KUMAR
-   ROLL:19/IT/43
-   UNIVERSITY ROLL NO.:00219043
-
+/*
    Question.1> INSERT a node into a linked list.
         1. At first
         2. At last
